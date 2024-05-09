@@ -7,5 +7,5 @@ I value out-of-the-box thinking and a first-principles approach.
 :loudspeaker:	Currently seeking a research scientist position in AI for science.
 
 **Expertise** :monocle_face:
-- Dynamics-based generative models: flow matching, diffusion models.
-- Hybrid dynamical systems: switched systems, discontinuous dynamical systems, behaviour trees.
+- **Dynamics-based generative models**: flow matching, diffusion models.
+- **Hybrid dynamical systems**: switched systems, discontinuous dynamical systems, behaviour trees.
