@@ -4,7 +4,7 @@ I'm an :us::uk:🇸🇪 AI researcher who likes to blend the reliability of mode
 I'm now leveraging parallels with robotics to improve inductive biases and safety in deep generative modeling (GenAI).
 I value out-of-the-box thinking and a first-principles approach. 
 
-:loudspeaker:	Currently seeking a research scientist position in structured AI (safety, planning, reasoning, decision-making, trustworthiness).
+:loudspeaker:	Currently seeking a research scientist position in structured AI (safety, planning, reasoning, decision-making, trustworthiness, physics).
 
 **Expertise** :monocle_face:
 - **Dynamics-based generative models**: flow matching, diffusion models.
